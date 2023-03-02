@@ -30,5 +30,3 @@ export const lambdaHandler = async (event, context) => {
 		}
 	}
 }
-
-lambdaHandler({ body: '{"message": "three +"}' }, {})
