@@ -1,0 +1,15 @@
+{
+	"name": "tdd-with-reece-and-talen",
+	"version": "1.0.0",
+	"description": "",
+	"main": "stringCalc.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^29.4.3"
+	}
+}
